@@ -2,6 +2,8 @@
 
 A browser extension that improves the appearance and usability of Schulnetz.
 
+It doesn't change much for now, as I'm still trying to understand how Schulnetz is structured. Once I have a better understanding of how everything works, I'll be able to make more changes and add new features.
+
 ## Features
 
 - Redesigned interface
